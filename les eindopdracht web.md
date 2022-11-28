@@ -99,8 +99,8 @@ we gaan digimon ophalen vanuit de site `https://www.digi-api.com` die biedt een 
 ## Extra:
 
 * probeer een `template html` te maken en die te gebruiken voor je `digimon detail kaart` zodat je niet alle tags in javascript hoeft te maken
-* sla je toegevoegde pokemon op met de `local storage api` (![storage api](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage))
-* style je pagina en pokemon `cards`
+* sla je toegevoegde digimon op met de `local storage api` (![storage api](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage))
+* style je pagina en digimon `cards`
 * gebruik een externe style `.css` file (![rel link](https://www.w3schools.com/tags/att_link_rel.asp))
 * heb je al flexbox css gehad? gebruikt dat (zie ook flexbox froggy voor oefeningen)
 
