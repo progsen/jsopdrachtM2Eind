@@ -45,7 +45,7 @@ we gaan digimon ophalen vanuit de site `https://www.digi-api.com` die biedt een 
 
 ## voorbereiden voor het tonen in html
 
-1. maak voor de namen een `<ul>` tag aan in je html dit is een list 
+1. maak voor de namen een `<ul>` tag aan in je html (dit is een list)
 
 ![ul tag](https://www.w3schools.com/tags/tag_ul.asp)
 
@@ -78,12 +78,12 @@ we gaan digimon ophalen vanuit de site `https://www.digi-api.com` die biedt een 
 
 1. nu hebben we per digimon de details opgehaald deze gaan we laten zien
 ![](img/eindweb/description.PNG)
-2. bedenk eerst hoe je je html per `arcticle` gaat maken. Zorg dat je de volgende velden hebt
+2. bedenk eerst hoe je je html per `article` gaat maken (denk aan welke tags je erin gaat zetten). Zorg dat je de volgende velden hebt:
 * name
 * description
 * img (een `img` tag)
 
-3. maak deze nu aan met javascript
+3. maak deze nu aan met javascript (`document.createElement(...)`)
 4. geef de `name`, `description` en `img` tags nu waarden die uit de `json` data komen zodat je de digimon goed kan weergeven
 
 ## dynamisch op user input reageren
@@ -94,7 +94,7 @@ we gaan digimon ophalen vanuit de site `https://www.digi-api.com` die biedt een 
 ![](https://www.w3schools.com/tags/tag_button.asp)
 
 2. als je op de knop clicked moet je de `text input` lezen.
-3. zoek nu de digimon op met `fetch` in de `https://www.digi-api.com/` en laat deze op de pagina zien
+3. zoek nu de digimon op met `fetch` in de `https://www.digi-api.com/` en laat deze op de pagina zien door een `article` toe te voegen
 
 ## Extra:
 
