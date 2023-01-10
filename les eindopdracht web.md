@@ -1,4 +1,6 @@
-# Opdrachten modules
+# Eindopdracht web
+
+Lees de hele opdracht eerst goed door voordat je begint!
 
 ## Mappen aanmaken
 
@@ -108,5 +110,6 @@ we gaan digimon ophalen vanuit de site `https://www.digi-api.com` die biedt een 
 ## klaar?
 
 1. commit & push je werk naar github
+2. lever je git link in de teams assignment
 
 
