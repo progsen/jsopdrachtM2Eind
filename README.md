@@ -1,6 +1,6 @@
 # jsopdrachtM2Eind
 
-Maak je keuze de eindopdracht:
+Maak minimaal deze eindopdracht:
 - les eindopdracht game.md
 
 Als je jezelf wil uitdagen mag je ook deze maken:
