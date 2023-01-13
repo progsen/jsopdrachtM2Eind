@@ -1,8 +1,10 @@
 # jsopdrachtM2Eind
 
-Maak je keuze uit de 2 eindopdrachten:
-- les eindopdracht web.md
+Maak je keuze de eindopdracht:
 - les eindopdracht game.md
+
+Als je jezelf wil uitdagen mag je ook deze maken:
+- les eindopdracht extra uitdaging web
 
 Maakt je gekozen opdracht, en commit deze in je git
 
