@@ -1,6 +1,15 @@
 # Eindopdracht web
 
 Lees de hele opdracht eerst goed door voordat je begint!
+Deze is voor de extra uitdaging!
+
+wat je nodig hebt:
+
+- je moet uitzoeken hoe `fetch` , `json` en `javascript objecten` werken
+
+https://www.w3schools.com/js/js_objects.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://www.w3schools.com/js/js_json.asp
 
 ## Mappen aanmaken
 

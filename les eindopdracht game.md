@@ -6,36 +6,58 @@ Lees de hele opdracht eerst goed door voordat je begint!
 
 1. Ga naar waar jouw school werk staat
 2. Ga naar de map/directory `M2 prog js`
-Uit de vorige les!
 3. Maak een map `eindopdrachtgame`
 4. Open de `eindopdrachtgame` folder in visual studio code
 
 ## dorp opzet
-Bouw canvas kerstkaart met daarop een interactief kerstdorp.
+Bouw canvas kerstkaart met daarop een kerstdorp.
 Je kerstkaart/dorp bevat de volgende onderdelen:
 - Statische huisjes
 - bomen
 - sneeuwpoppen etc.
-Zorg dat je dorp goed gevuld is.
+- Zet in je kerstkaart een kerstgroet.
+- Zorg dat je dorp goed gevuld is.
 
-## licht
-1. Zorg dat lampjes willekeurig aan en uit gaan in je dorp. Bijv:
+## Code:
+
+probeer zoveel mogelijk van de geleerde onderwerpen te gebruiken in je code!
+Denk aan `arrays`, `for loops`, `functions`, `classes` etc
+
+## extra leuke dingen voor de uitdaging!
+
+### licht
+Zorg dat lampjes willekeurig aan en uit gaan in je dorp. Bijv:
 - Autolampen
 - straatlantaarns
 - lichten in huisjes en in de kerstboom.
 
-2. Zorg dat er een animatie is van iets dat door het dorp heen beweegt. Bijv:
+### animatie
+Zorg dat er een animatie is van iets dat door het dorp heen beweegt. Bijv:
 - Een trammetje
 - auto
 - vliegende kerstman
 - ufo
 - ijsbeer of wat je meer kunt bedenken
 
-3. Zet in je kerstkaart een kerstgroet die van kleur verandert.
+### interactie:
+Maak 1 of meerdere dingen interactief bijvoorbeeld:
+- je kan op een huis clicken om de lichten aan of uit te doen
 
-## Code
-Maak voor alle onderdelen in je kerstkaart gebruik van classes die je instantieert zorg dat elke class een draw method heeft waarbij je de context van de canvas een x en een y positie mee kunt geven als argument.
-Bewaar objecten die van dezelde class zijn in een array. Dus alle bomen bijv. bij elkaar. 
+## Beoordeling:
+
+### voldoende:
+
+- Je hebt het dorp gemaakt
+- het dorp is voldoende gevuld met verschillende dingen zoals huizen/bomen etc
+
+### goed:
+
+- Je code maakt gebruik van functions
+
+### excelent:
+
+- Je maakt gebruik van classes (bv voor de verschillende dingen zoals huizen)
+- Je hebt wat van de extra leuke dingen in je dorp toegevoegd
 
 ## klaar?
 
