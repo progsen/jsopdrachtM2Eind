@@ -22,6 +22,7 @@ Je kerstkaart/dorp bevat de volgende onderdelen:
 
 probeer zoveel mogelijk van de geleerde onderwerpen te gebruiken in je code!
 Denk aan `arrays`, `for loops`, `functions`, `classes` etc
+Dingen zoals `functions` en `classes` maken je huizen en bomen herbruikbaar.
 
 ## extra leuke dingen voor de uitdaging!
 
