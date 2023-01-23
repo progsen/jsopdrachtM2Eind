@@ -48,6 +48,7 @@ Maak 1 of meerdere dingen interactief bijvoorbeeld:
 
 ### voldoende:
 
+- Je kaart is uniek
 - Je hebt het dorp gemaakt
 - het dorp is voldoende gevuld met verschillende dingen zoals huizen/bomen etc
 
